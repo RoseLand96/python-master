@@ -1,8 +1,8 @@
 import web, datetime
 
-db_host=' jnc6n3xpbgc3kek2.chr7pe7iynqr.eu-west-1.rds.amazonaws.com'
+db_host='jnc6n3xpbgc3kek2.chr7pe7iynqr.eu-west-1.rds.amazonaws.com'
 db_name='ir05x9q7h6obpf0l'
-db_user=' vwlsy35prxbvy4hf'
+db_user='vwlsy35prxbvy4hf'
 db_pw='hcmclee37z0sexxj'
 
 db=web.database(
